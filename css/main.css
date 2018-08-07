@@ -44,3 +44,12 @@ a {
 	//color: #00ff00;
 	color: #ee0000;
 }
+.new {
+	background: #00FFD7;
+}
+.started {
+	background: #D700FF;
+}
+.completed {
+	background: #FFD700;
+}
